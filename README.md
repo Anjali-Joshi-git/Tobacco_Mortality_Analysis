@@ -1,15 +1,20 @@
 ## 📌 Project Summary
 
-* This project investigates whether UK smoking-related data can be used to build a reliable tobacco-attributable mortality prediction model.
+* This project investigates whether smoking-related data can be used to build a reliable tobacco-attributable mortality prediction model.
 * Through data cleaning, epidemiological reasoning, and exploratory visualizations, the study concludes that mortality prediction is not feasible with the currently available dataset.
 * Instead, the project transforms into a robust analytical and epidemiology-driven report, supported by clear insights and validated visualizations.
 
 ## 📂 Repository Structure
 ├── Final_Report_Tobacco.pdf          # Full analytical report with narrative & visuals
+
 ├── Tobacco_ML.ipynb                  # Complete notebook: cleaning → EDA → epi-analysis
+
 ├── plot_1.png                        # Smoking trend visualization
+
 ├── plot_2.jpg                        # Indicator comparison visualization
+
 ├── plot_3.png                        # Yearly pattern visualization
+
 └── README.md                         # Project overview (this file)
 
 ## 🎯 Objectives
