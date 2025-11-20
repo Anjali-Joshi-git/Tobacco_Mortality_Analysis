@@ -5,7 +5,6 @@
 * Instead, the project transforms into a robust analytical and epidemiology-driven report, supported by clear insights and validated visualizations.
 
 ## 📂 Repository Structure
-.
 ├── Final_Report_Tobacco.pdf          # Full analytical report with narrative & visuals
 ├── Tobacco_ML.ipynb                  # Complete notebook: cleaning → EDA → epi-analysis
 ├── plot_1.png                        # Smoking trend visualization
